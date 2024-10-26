@@ -1,0 +1,2 @@
+# wc
+Custom wc code
